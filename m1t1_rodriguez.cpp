@@ -17,6 +17,6 @@ using namespace std;
 int main(){
 
     cout << "Hello, world!";
-    cout << endl; // new line
+    cout << endl; // new linel
     return 0; // no errors
 }
