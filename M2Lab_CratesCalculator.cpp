@@ -1,4 +1,4 @@
-// CSC 134
+//CSC 134
 // M2HW1 - General Crates Inc. Calculator
 // Ruslana Rodriguez
 // September 27, 2026
@@ -21,7 +21,7 @@ int main()
     double volume;  // Total calculated volume
     double cost;    // Production cost to build
     double charge;  // Amount customer is charged
-    double profit;  // Net profit earned
+    double profit;  // Net profit earned  
 
     // 3. Set Decimal Output Formatting
     cout << setprecision(2) << fixed << showpoint;
