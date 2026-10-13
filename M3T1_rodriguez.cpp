@@ -1,4 +1,4 @@
-///*
+/*
  CSC 134
  M3T1 - Rectangle Calculator
  Ruslana Rodriguez
@@ -28,4 +28,4 @@ areaTwo = widthTwo * lengthTwo;
 // display results
 cout << "Rectangle one has area of " << areaOne << endl;
 cout << "Rectangle two has area of " << areaTwo << endl;
-}l
+}
