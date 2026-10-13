@@ -1,4 +1,9 @@
-//M3T1_rodriguez.C++
+///*
+ CSC 134
+ M3T1 - Rectangle Calculator
+ Ruslana Rodriguez
+ October 12, 2026
+*/
 #include <iostream>
 using namespace std;
 
