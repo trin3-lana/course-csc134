@@ -24,6 +24,12 @@ int main()
   return 0;
 }
 
+// Value-returning function
+// Returns the square of num
+int square (int num)
+{
+    return num * num;
+}
 // Void function
 // Prints the number and its square
 void printAnswerLine(int number, int squared)
