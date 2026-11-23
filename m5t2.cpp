@@ -1,0 +1,39 @@
+// CSC 134
+// M5T2 - More Practice with Functions
+// Ruslana Rodriguez
+// Partner: Google (AI Navigator)
+// November 23, 2026
+
+#include <iostream>
+using namespace std;
+
+// Function prototypes
+int square(int num);
+void printAnswerLine(int number, int squared);
+
+int main()
+{
+  // Print numbers 1 to 10 and their square
+  for (int i =1; i <=10; i++)
+  {
+      int result = square(i);
+
+      printAnswerLine(i, result);
+  }
+
+  return 0;
+}
+
+// Value-returning function
+// Returns the square of num
+int square (int num)
+{
+    return num * num;
+}
+// Void function
+// Prints the number and its square
+void printAnswerLine(int number, int squared)
+{
+    cout << number << " squared is "
+         << squared << endl;
+}
